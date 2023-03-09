@@ -9,5 +9,6 @@ export interface Book {
     genre:Genre
     summary:string
     imageUrl:string
+
 }
 

@@ -1,0 +1,17 @@
+.color{
+  background-color: #7B68EE;
+}
+
+.pagination button {
+  border-radius: 50%;
+}
+
+/* Add some box-shadow */
+.pagination button {
+  box-shadow: inset -5px -5px rgba(0,0,0,0.2), inset 5px 5px rgba(255,255,255,0.2);
+}
+
+/* Rotate buttons */
+/* .pagination button {
+   transform: rotate(45deg);
+} */
